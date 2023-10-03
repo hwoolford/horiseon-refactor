@@ -33,5 +33,5 @@ View the webpage on a desktop computer
 
 ### Links
 
-Deployed Website
-Repository
+- [Deployed Website](https://github.com/hwoolford/horiseon-refactor/tree/main)
+- [GitHub Repository](https://hwoolford.github.io/horiseon-refactor/)
