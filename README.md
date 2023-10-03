@@ -35,3 +35,9 @@ View the webpage on a desktop computer
 
 - [Deployed Website](https://github.com/hwoolford/horiseon-refactor/tree/main)
 - [GitHub Repository](https://hwoolford.github.io/horiseon-refactor/)
+
+### Resources Used
+
+- [HTML Semantic Elements from W3Schools](https://www.w3schools.com/html/html5_semantic_elements.asp)
+- [How to Write a Good README File for Your GitHub Project](https://www.freecodecamp.org/news/how-to-write-a-good-readme-file/)
+- [Basic Markdown Syntax](https://www.markdownguide.org/basic-syntax/)
