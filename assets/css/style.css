@@ -1,14 +1,17 @@
+/* This code with the asterisk applies to entire webpage */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
+/* Sets background color for webpage */
 body {
     background-color: #d9dcd6;
 }
 
-.header {
+/* Header and heading properties */
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -20,11 +23,13 @@ h1 {
     font-size: 48px;
 }
 
+/* Changes the color of the "SEO" in the title for "search engine optimization" */
 .seo {
     color: #d9dcd6;
 }
 
-.nav {
+/* Navigation and nav link settings */
+nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -46,10 +51,7 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
-
+/* Sets the background image that separates the header and the main part of the webpage */
 .background-image {
     height: 800px;
     width: 100%;
@@ -59,6 +61,7 @@ p {
     background-position: center;
 }
 
+/* Settings for the content of the services offered */
 .content {
     width: 75%;
     display: inline-block;
@@ -74,13 +77,9 @@ p {
     color: #ffffff;
 }
 
+/* Settings for the size and location of each individual service image */
 .services img {
     max-height: 200px;
-}
-
-.services h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 
 .float-left {
@@ -93,6 +92,17 @@ p {
     margin-left: 25px;
 }
 
+/* Setting for the services heading and paragraph font size */
+.services h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+p {
+    font-size: 16px;
+}
+
+/* Settings for the sidebar and sidebar images*/
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -104,6 +114,13 @@ aside {
     background-color: #2589bd;
 }
 
+aside img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+/* Settings for each benefit in the sidebar and the heading of each benefit */
 .benefits {
     margin-bottom: 32px;
     color: #ffffff;
@@ -114,12 +131,7 @@ h3 {
     text-align: center;
 }
 
-aside img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
+/* Settings for the footer of the webpage */
 footer {
     padding: 30px;
     clear: both;
