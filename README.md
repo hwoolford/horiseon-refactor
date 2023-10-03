@@ -29,8 +29,9 @@ This project is a refactor of HTML and CSS for the Horiseon webpage for the purp
 ### How to Use the Project
 
 View the webpage on a desktop computer
-![Current view of the webpage](/horiseon-refactor/assets/images/01-html-css-git-homework-demo.png)
+![Current view of the webpage](/horiseon-refactor/assets/images/horiseon-screenshot.png)
 
 ### Links
+
 Deployed Website
 Repository
